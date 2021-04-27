@@ -3,3 +3,12 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header {
+    background:#87dcf7
+}

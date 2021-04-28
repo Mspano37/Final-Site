@@ -54,7 +54,7 @@ nav ul {
 
 nav li {
   display: inline-block;
-  margin-left: 70px;
+  margin-left: 50px;
   padding-top: 23px;
 
   position: relative;
@@ -86,4 +86,35 @@ nav a::before {
 
 nav a:hover::before {
   width: 100%;
+}
+
+.socials {
+  text-align: center;
+}
+
+.socials ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.socials li {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+}
+
+.socials a {
+  color: #87d6f7;
+  font-size: 100px;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding-left: 80px;
+  text-shadow: #000000;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #686868;
+}
+
+.socials a:hover {
+  color: #f8a5c9;
 }

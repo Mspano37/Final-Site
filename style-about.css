@@ -21,12 +21,12 @@ header::after {
 }
 
 .logo {
-  float: left;
+  float: right;
   padding: 10px 0;
 }
 
 nav {
-  float: right;
+  text-align: center;
 }
 
 nav ul {

@@ -5,9 +5,37 @@
     padding-top: 30px;
 }
 
+.Clip1 {
+  display: block;
+  padding-top: 50px;
+  margin: 0 auto;
+  width: 800px;
+  border-style: solid;
+  border: #686868;
+}
+
+.Clip2 {
+  display: block;
+  padding-top: 50px;
+  margin: 0 auto;
+  width: 800px;
+  border-style: solid;
+  border: #686868;
+}
+
+.Clip3 {
+  display: block;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin: 0 auto;
+  width: 800px;
+  border-style: solid;
+  border: #686868;
+}
+
 body {
 	margin: 0;
-	background: rgb(255, 255, 255);
+	background: #fffdf3;
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 800;
 }

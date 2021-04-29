@@ -1,8 +1,19 @@
+
+
 .about {
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding-top: 30px;
+}
+
+.about-body {
+  font-family: 'Raleway', sans-serif;
+  padding-top: 50px;
+  padding-left: 700px;
+  padding-right: 700px;
+  display: block;
+  margin: 0 auto;
 }
 
 body {

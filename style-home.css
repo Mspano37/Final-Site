@@ -89,6 +89,7 @@ nav a:hover::before {
 }
 
 .socials {
+  font-family: 'Fascinate', cursive;
   text-align: center;
 }
 
